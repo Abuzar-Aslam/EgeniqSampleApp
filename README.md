@@ -12,7 +12,7 @@ Add your API key from The Cat API in the gradle.properties file:
 
 makefile
 Copy code
-# Replace YOUR_API_KEY with your actual API key from the [https://thecatapi.com/]
+**Replace YOUR_API_KEY with your actual API key from the [https://thecatapi.com/]**
 - apiAccessKey="YOUR_API_KEY"
 
 **This API key is required to access the images of cat breeds from The Cat API.**
