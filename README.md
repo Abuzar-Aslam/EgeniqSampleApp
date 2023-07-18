@@ -10,8 +10,6 @@ Create a gradle.properties file in the project's root directory if it does not e
 
 Add your API key from The Cat API in the gradle.properties file:
 
-makefile
-Copy code
 **Replace YOUR_API_KEY with your actual API key from the [https://thecatapi.com/]**
 - apiAccessKey="YOUR_API_KEY"
 
