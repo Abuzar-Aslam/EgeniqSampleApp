@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Egeniq Sample App</string>
+    <string name="main_activity_title">Cat App</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="network_error">Network error occurred</string>
+    <string name="http_error">HTTP error occurred</string>
+    <string name="unknown_error">Unknown error occurred</string>
+</resources>
